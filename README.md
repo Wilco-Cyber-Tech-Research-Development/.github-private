@@ -461,7 +461,7 @@ These are active research goals, not established capabilities.
 
 13. Contribution & Licensing
 
-Refer to the LICENSE file for terms. Contributions are welcome via pull requests following the standard workflow.
+Operator: Joseph Mangar Lual, individual/sole trader under [ABN 92 845 954 362](https://abr.business.gov.au/ABN/View?id=92845954362). Project portfolio business identity: Andoria Pacific Home Developers. Versions that include the root LICENSE are source-available under the custom Community and Commercial License. It is not OSI-approved and does not grant hosted model or API access. See SECURITY.md for vulnerability-reporting instructions. Earlier release grants remain in effect. Contributions are welcome via pull requests; each contributor retains rights in their own work unless separately agreed.
 
 ---
 
