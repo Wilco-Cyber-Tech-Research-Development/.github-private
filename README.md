@@ -461,7 +461,7 @@ These are active research goals, not established capabilities.
 
 13. Contribution & Licensing
 
-Refer to the LICENSE file for terms. Contributions are welcome via pull requests following the standard workflow.
+Versions that include the root LICENSE are source-available under the custom Community and Commercial License. It is not OSI-approved and does not grant hosted model or API access. Earlier release grants remain in effect. Contributions are welcome via pull requests; each contributor retains rights in their own work unless separately agreed.
 
 ---
 
